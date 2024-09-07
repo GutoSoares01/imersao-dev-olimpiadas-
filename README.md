@@ -1,4 +1,4 @@
-Imersão Dev com Google Gemini
+### **Imersão Dev com Google Gemini**
 ### **Buscador de Atletas: Diga "Olá" para os Campeões!**
 
 **O que faz essa aplicação?**
