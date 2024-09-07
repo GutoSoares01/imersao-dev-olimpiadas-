@@ -1,5 +1,3 @@
-## **Descontraído para o seu Projeto**
-
 ### **Buscador de Atletas: Diga "Olá" para os Campeões!** 
 
 **O que faz essa aplicação?**
